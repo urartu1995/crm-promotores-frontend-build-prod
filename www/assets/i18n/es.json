@@ -554,7 +554,19 @@
     "contacto": "Contacto",
     "calendar": "Calendario",
     "leads": "Leads",
-    "history": "Historial"
+    "history": "Historial",
+        "all": "Todo",
+    "status": "Estado",
+    "accepted": "Aceptado",
+    "rejected": "Rechazado",
+    "agency": "Agencia",
+    "date_from": "Fecha Desde",
+    "date_to": "Fecha Hasta",
+    "visit_filter": "Filtro de Visitas",
+    "with_visit": "Con Visita",
+    "without_visit": "Sin Visita",
+    "promoters": "Promotor",
+    "promotion": "Promoción"
   },
   "promotion_constructionType_texts": {
     "defaultNote": "Seleccione un tipo de promoción para ver detalles.",

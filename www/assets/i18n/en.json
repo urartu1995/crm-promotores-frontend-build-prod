@@ -554,7 +554,19 @@
     "contacto": "Contact",
     "calendar": "Calendar",
     "leads": "Leads",
-    "history": "History"
+    "history": "History",
+        "all": "All",
+    "status": "Status",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "agency": "Agency",
+    "date_from": "Date From",
+    "date_to": "Date To",
+    "visit_filter": "Visit Filter",
+    "with_visit": "With Visit",
+    "without_visit": "Without Visit",
+    "promoters": "Promoter",
+    "promotion": "Promotion"
   },
   "promotion_constructionType_texts": {
     "promocion-rehabilitacion": "Rehabilitation Promotion",
