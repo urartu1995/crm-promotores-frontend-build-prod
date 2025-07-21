@@ -9945,11 +9945,11 @@ body.tabulator-print-fullscreen-hide > *:not(.tabulator-print-fullscreen) {
  */
 html{
     --tw-bg-opacity: 1;
-    background-color: rgb(var(--color-primary) / var(--tw-bg-opacity));
+    /*background-color: rgb(var(--color-primary) / var(--tw-bg-opacity));*/
 }
 html.dark{
     --tw-bg-opacity: 1;
-    background-color: rgb(var(--color-darkmode-800) / var(--tw-bg-opacity));
+    /*background-color: rgb(var(--color-darkmode-800) / var(--tw-bg-opacity));*/
 }
 html.dark body{
     --tw-text-opacity: 1;
