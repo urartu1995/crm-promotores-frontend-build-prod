@@ -621,7 +621,7 @@
     "domain_failed": "Fallido",
     "dns_instructions": "Instrucciones DNS",
     "dns_setup_instructions": "Configuración DNS para tu dominio personalizado",
-    "dns_setup_description": "Para completar la configuración de tu dominio personalizado, necesitas añadir los siguientes 2 registros DNS:",
+    "dns_setup_description": "Para completar la configuración de tu dominio personalizado, necesitas añadir los siguientes 3 registros DNS. Una vez añadidos, la propagación puede tardar hasta 24 horas.",
     "step_1_cname_record": "Registro CNAME (Routing)",
     "step_2_ownership_verification": "Verificación de Propiedad (TXT)",
     "cname_record_description": "Este registro redirige el tráfico de tu dominio a nuestros servidores.",
@@ -641,6 +641,8 @@
     "domain_invalid_dots": "El dominio no puede empezar o terminar con un punto",
     "domain_consecutive_dots": "El dominio no puede contener puntos consecutivos",
     "domain_invalid_tld": "El dominio debe tener una extensión válida (mínimo 2 caracteres)",
+    "domain_must_be_subdomain": "El dominio debe ser un subdominio (ej: www.dominio.com)",
+    "subdomain_cannot_be_empty": "El subdominio no puede estar vacío",
     "ownership_verification": "Verificación de propiedad",
     "verification_errors": "Errores de verificación",
     "a_place_in_the_sun": "A Place in the Sun",
@@ -1647,6 +1649,51 @@
     "input_placeholder": "Ingresar número",
     "add": "Añadir"
   },
+  "settings": {
+    "title": "Configuración",
+    "description": "Gestiona las preferencias y configuraciones de tu aplicación",
+    "language_placeholder": "Selecciona un idioma",
+    "email_management": {
+      "title": "Gestión de Correos",
+      "description": "Administra tus cuentas de correo para la generación de leads",
+      "manage_button": "Gestionar",
+      "active_accounts": "Cuentas de Correo Activas",
+      "total_accounts": "Total de cuentas configuradas",
+      "create_new": "Crear Nueva Cuenta de Correo",
+      "input_label": "Nombre del correo",
+      "placeholder": "Introduce el nombre del correo",
+      "create_button": "Crear cuenta de correo",
+      "active_account": "Cuenta de correo activa",
+      "no_accounts": "Aún no hay cuentas de correo",
+      "empty_list": "Aún no hay cuentas de correo configuradas",
+      "close": "Cerrar"
+    },
+    "system_config": {
+      "title": "Configuración del Sistema",
+      "description": "Configura ajustes globales del sistema e integraciones",
+      "imap_accounts": "Cuentas IMAP",
+      "imap_description": "Configurar conexiones IMAP",
+      "access_roles": "Roles de Acceso",
+      "roles_description": "Gestionar permisos de usuario"
+    },
+    "document_management": {
+      "title": "Gestión de Documentos",
+      "description": "Administra plantillas PDF y flujos de trabajo de documentos",
+      "pdf_templates": "Plantillas PDF",
+      "pdf_description": "Crear y gestionar plantillas PDF"
+    },
+    "overview": {
+      "title": "Resumen Rápido",
+      "email_accounts": "Cuentas de Correo",
+      "active": "activas",
+      "language": "Idioma"
+    },
+    "help": {
+      "title": "¿Necesitas Ayuda?",
+      "description": "Consulta nuestra documentación o contacta con soporte para asistencia con tu configuración.",
+      "button": "Ver Documentación"
+    }
+  },
   "setting": {
     "inbound_emails": {
       "title": "Cuentas de correo Inbound",
@@ -2340,7 +2387,11 @@
       "unexpectedError": "Ocurrió un error inesperado"
     },
     "invite_agency_details": {
-      "title": "Condiciones de colaboración"
+      "title": "Condiciones de colaboración",
+      "reject": "Rechaza",
+      "reject_title": "Rechazar la colaboración",
+      "reject_reason_placeholder": "Por favor, indica el motivo del rechazo.",
+      "accept": "Aceptar"
     },
     "pipeline": {
       "change_pipeline_title": "Cambiar de Pipeline",

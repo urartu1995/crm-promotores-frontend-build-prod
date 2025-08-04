@@ -619,7 +619,7 @@
     "domain_failed": "Failed",
     "dns_instructions": "DNS Instructions",
     "dns_setup_instructions": "DNS Setup for Your Custom Domain",
-    "dns_setup_description": "To complete your custom domain setup, you need to add the following 2 DNS records:",
+    "dns_setup_description": "To complete your custom domain setup, you need to add the following 3 DNS records. Once added, propagation may take up to 24 hours.",
     "step_1_cname_record": "CNAME Record (Routing)",
     "step_2_ownership_verification": "Ownership Verification (TXT)",
     "cname_record_description": "This record routes traffic from your domain to our servers.",
@@ -639,6 +639,8 @@
     "domain_invalid_dots": "Domain cannot start or end with a dot",
     "domain_consecutive_dots": "Domain cannot contain consecutive dots",
     "domain_invalid_tld": "Domain must have a valid extension (minimum 2 characters)",
+    "domain_must_be_subdomain": "Domain must be a subdomain (e.g., www.domain.com)",
+    "subdomain_cannot_be_empty": "Subdomain cannot be empty",
     "ownership_verification": "Ownership verification",
     "verification_errors": "Verification errors",
     "web_propio":"Own website",
@@ -1647,6 +1649,51 @@
     "input_placeholder": "Enter number",
     "add": "Add"
   },
+  "settings": {
+    "title": "Settings",
+    "description": "Manage your application preferences and configurations",
+    "language_placeholder": "Select a language",
+    "email_management": {
+      "title": "Email Management",
+      "description": "Manage your email accounts for lead generation",
+      "manage_button": "Manage",
+      "active_accounts": "Active Email Accounts",
+      "total_accounts": "Total configured accounts",
+      "create_new": "Create New Email Account",
+      "input_label": "Email name",
+      "placeholder": "Enter email name",
+      "create_button": "Create email account",
+      "active_account": "Active email account",
+      "no_accounts": "No email accounts yet",
+      "empty_list": "No email accounts configured yet",
+      "close": "Close"
+    },
+    "system_config": {
+      "title": "System Configuration",
+      "description": "Configure system-wide settings and integrations",
+      "imap_accounts": "IMAP Accounts",
+      "imap_description": "Configure IMAP connections",
+      "access_roles": "Access Roles",
+      "roles_description": "Manage user permissions"
+    },
+    "document_management": {
+      "title": "Document Management",
+      "description": "Manage PDF templates and document workflows",
+      "pdf_templates": "PDF Templates",
+      "pdf_description": "Create and manage PDF templates"
+    },
+    "overview": {
+      "title": "Quick Overview",
+      "email_accounts": "Email Accounts",
+      "active": "active",
+      "language": "Language"
+    },
+    "help": {
+      "title": "Need Help?",
+      "description": "Check our documentation or contact support for assistance with your settings.",
+      "button": "View Documentation"
+    }
+  },
   "setting": {
     "inbound_emails": {
       "title": "Inbound email accounts",
@@ -2403,6 +2450,10 @@
     },
     "invite_agency_details": {
       "title": "Conditions of collaboration",
+      "reject": "Reject",
+      "reject_title": "Reject collaboration",
+      "reject_reason_placeholder": "Please indicate the reason for rejection.",
+      "accept": "Accept"
     }
   },
   "popover": {
