@@ -714,8 +714,14 @@
   "relation_non_collaborators": "Agencias no colaboradoras",
   "comment": "Comentario",
   "no_comment": "Sin comentario",
-  "propertyAdded": "Propiedad añadida correctamente"
+  "propertyAdded": "Propiedad añadida correctamente",
+   "invite_to_collaborate": "Invitar a colaborar",
+   "collaborating_agencies": "Agencias colaboradoras",
+   "non_collaborating_agencies": "Agencias no colaboradoras",
+   "collaborations": "Colaboraciones",
+    "invite": "Invitar"
   },
+
   "promotion_constructionType_texts": {
     "defaultNote": "Seleccione un tipo de promoción para ver detalles.",
     "promocion-rehabilitacion": "Promoción de Rehabilitación",
@@ -2493,7 +2499,12 @@
       "delete_property": "Borrar propiedad",
       "select": "Seleccionar",
       "visit": "Visita",
-      "discard": "Descartar"
+      "discard": "Descartar",
+      "see_contract": "Ver contrato",
+      "statistics": "Estadística",
+      "historical": "Histórica",
+      "block_collaborator": "Bloquear colaborador",
+      "cancel_collaboration": "Cancelar la colaboración"
     },
     "notifications": {
       "title": "Notificaciones",

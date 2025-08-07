@@ -714,8 +714,15 @@
   "relation_non_collaborators": "Non-collaborating Agencies",
   "comment": "Comment",
   "no_comment": "No comment",
-  "propertyAdded": "Property added successfully"
+  "propertyAdded": "Property added successfully",
+  "invite_to_collaborate": "Invite to collaborate",
+    "collaborating_agencies": "Collaborating agencies",
+    "non_collaborating_agencies": "Non collaborating agencies",
+    "collaborations": "Collaborations",
+    "invite": "Invite"
+
   },
+
   "promotion_constructionType_texts": {
     "defaultNote": "Select a promotion type to view details.",
     "promocion-rehabilitacion": "Rehabilitation Promotion",
@@ -2493,7 +2500,12 @@
       "delete_property": "Delete property",
       "select": "Select",
       "visit": "Visit",
-      "discard": "Discard"
+      "discard": "Discard",
+      "see_contract": "See contract",
+      "statistics": "Statistics",
+      "historical": "Historical",
+      "block_collaborator": "Block collaborator",
+      "cancel_collaboration": "Cancel collaboration"
     },
     "notifications": {
       "title": "Notifications",
