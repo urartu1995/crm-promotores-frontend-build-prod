@@ -1536,7 +1536,8 @@
     "tables": {
       "clients": "Clients",
       "sources": "Sources",
-      "agencies": "Agencies"
+      "agencies": "Agencies",
+      "promotions": "Promotions"
     },
     "channels" : {
       "fotocasa": "Fotocasa",
@@ -1553,7 +1554,8 @@
       "channel": "Channel",
       "leads": "Leads",
       "opportunities": "Opportunities",
-      "agency": "Agency"
+      "agency": "Agency",
+      "promotion": "Promotion"
     },
     "errors": {
       "fetchingStats": "Error fetching dashboard statistics"
@@ -2502,6 +2504,7 @@
       "visit": "Visit",
       "discard": "Discard",
       "see_contract": "See contract",
+      "create_contract": "Create contract",
       "statistics": "Statistics",
       "historical": "Historical",
       "block_collaborator": "Block collaborator",

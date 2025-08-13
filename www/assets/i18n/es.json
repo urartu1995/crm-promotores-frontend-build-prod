@@ -1535,7 +1535,8 @@
     "tables": {
       "clients": "Clientes",
       "sources": "Origenes",
-      "agencies": "Agencias"
+      "agencies": "Agencias",
+      "promotions": "Promociones"
     },
     "channels" : {
       "fotocasa": "Fotocasa",
@@ -1552,7 +1553,8 @@
       "channel": "Canal",
       "leads": "Leads",
       "opportunities": "Oportunidades",
-      "agency": "Agencia"
+      "agency": "Agencia",
+      "promotion": "Promoción"
     },
     "errors": {
       "fetchingStats": "Error al obtener las estadísticas del panel"
@@ -2501,6 +2503,7 @@
       "visit": "Visita",
       "discard": "Descartar",
       "see_contract": "Ver contrato",
+      "create_contract": "Crear contrato",
       "statistics": "Estadística",
       "historical": "Histórica",
       "block_collaborator": "Bloquear colaborador",
