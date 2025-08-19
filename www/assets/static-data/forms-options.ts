@@ -154,6 +154,126 @@ export const contactFormOptions = {
             "value": "zoopla",
             "label": "Zoopla"
         },
+        {
+            "value": "campana_de_remarketing",
+            "label": "Campaña de remarketing"
+        },
+        {
+            "value": "carteles",
+            "label": "Carteles"
+        },
+        {
+            "value": "colaboraciones",
+            "label": "Colaboraciones"
+        },
+        {
+            "value": "cliente_repetido",
+            "label": "Cliente repetido"
+        },
+        {
+            "value": "email_marketing",
+            "label": "Email marketing"
+        },
+        {
+            "value": "eventos_propios",
+            "label": "Eventos propios"
+        },
+        {
+            "value": "facebook_organico",
+            "label": "Facebook orgánico"
+        },
+        {
+            "value": "ferias_nacionales",
+            "label": "Ferias nacionales"
+        },
+        {
+            "value": "google_organico",
+            "label": "Google orgánico"
+        },
+        {
+            "value": "immoweb",
+            "label": "Immoweb"
+        },
+        {
+            "value": "instagram_organico",
+            "label": "Instagram orgánico"
+        },
+        {
+            "value": "landinpages",
+            "label": "LandinPages"
+        },
+        {
+            "value": "linkedin_organico",
+            "label": "LinkedIn orgánico"
+        },
+        {
+            "value": "mansion_global",
+            "label": "MansionGlobal"
+        },
+        {
+            "value": "milanuncios",
+            "label": "Milanuncios"
+        },
+        {
+            "value": "mimove",
+            "label": "MiMove"
+        },
+        {
+            "value": "networking",
+            "label": "Networking"
+        },
+        {
+            "value": "oficina",
+            "label": "Oficina"
+        },
+        {
+            "value": "oficina_de_ventas",
+            "label": "Oficina de ventas"
+        },
+        {
+            "value": "prian",
+            "label": "Prian"
+        },
+        {
+            "value": "properstar",
+            "label": "Properstar"
+        },
+        {
+            "value": "proprietes_le_figaro",
+            "label": "Propriétés Le Figaro"
+        },
+        {
+            "value": "radio",
+            "label": "Radio"
+        },
+        {
+            "value": "realtor_com",
+            "label": "Realtor.com"
+        },
+        {
+            "value": "spainhouses",
+            "label": "Spainhouses"
+        },
+        {
+            "value": "tiktok_ads",
+            "label": "TikTok Ads"
+        },
+        {
+            "value": "tiktok_organico",
+            "label": "TikTok orgánico"
+        },
+        {
+            "value": "tranio",
+            "label": "Tranio"
+        },
+        {
+            "value": "trulia",
+            "label": "Trulia"
+        },
+        {
+            "value": "zimmo",
+            "label": "Zimmo"
+        },
     ]
 
 }
