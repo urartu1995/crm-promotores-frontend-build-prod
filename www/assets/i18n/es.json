@@ -821,9 +821,10 @@
     "soon": "Próximamente",
     "managed": "Gestionadas",
     "add_new_visit": "Añadir nueva visita",
-    "search": "Buscar"
-
-
+    "search": "Buscar",
+    "manage": "Gestionar",
+    "completed": "Terminada",
+    "evaluating": "Evaluando"
   },
 
   "promotion_constructionType_texts": {
@@ -1414,7 +1415,8 @@
     "pending_to_evaluate": "Pendientes de evaluar",
     "evaluate": "Evaluar",
     "title": "Calendario",
-    "error_accepting_visit": "Error al aceptar la visita."
+    "error_accepting_visit": "Error al aceptar la visita.",
+    "pending": "Pendiente"
   },
   "operation":{
     "steps": {

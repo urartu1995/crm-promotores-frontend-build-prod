@@ -820,9 +820,10 @@
     "soon": "Soon",
     "managed": "Managed",
     "add_new_visit": "Add new visit",
-    "search": "Search"
-
-
+    "search": "Search",
+    "manage": "Manage",
+    "completed": "Completed",
+    "evaluating": "Evaluating"
   },
 
   "promotion_constructionType_texts": {
@@ -1388,6 +1389,7 @@
     "pending_to_evaluate": "Pending to Evaluate",
     "evaluate": "Evaluate",
     "title": "Calendar",
+    "pending": "Pending",
     "error_accepting_visit": "Error accepting the visit."
   },
   "operation":{
