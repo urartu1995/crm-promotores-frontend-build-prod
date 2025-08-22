@@ -824,6 +824,7 @@
     "manage": "Manage",
     "completed": "Completed",
     "evaluating": "Evaluating"
+
   },
 
   "promotion_constructionType_texts": {
@@ -1127,7 +1128,8 @@
       "autolead_warning": "This lead was created automatically from an email, please verify that there are no errors",
       "received": "Received",
       "sent": "Sent",
-      "email_list": "Email list"
+      "email_list": "Email list",
+      "email_account": "Email account"
     },
     "card": {
       "nationality": "Nationality",
@@ -1389,7 +1391,6 @@
     "pending_to_evaluate": "Pending to Evaluate",
     "evaluate": "Evaluate",
     "title": "Calendar",
-    "pending": "Pending",
     "error_accepting_visit": "Error accepting the visit."
   },
   "operation":{
@@ -2204,6 +2205,7 @@
     }
   },
   "document": {
+    "clipboard_copied": "The text has been copied to the clipboard",
     "document_name":"Document",
     "document_plural":"Documents",
     "searchPlaceholder": "Search document",
@@ -2494,6 +2496,9 @@
     },
     "emailFilter": {
       "title": "Filter",
+      "mailbox": "Folder",
+      "inbox": "Inbox",
+      "sent": "Sent",
       "startDate": "From",
       "endDate": "To",
       "destinataryEmail": "Recipient email",

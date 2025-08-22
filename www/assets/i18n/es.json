@@ -825,6 +825,7 @@
     "manage": "Gestionar",
     "completed": "Terminada",
     "evaluating": "Evaluando"
+
   },
 
   "promotion_constructionType_texts": {
@@ -1128,7 +1129,8 @@
       "autolead_warning": "Este lead ha sido creado automáticamente desde un correo, verifica que no hayan errores",
       "received": "Recibidos",
       "sent": "Enviados",
-      "email_list": "Listado de correos"
+      "email_list": "Listado de correos",
+      "email_account": "Cuenta de correo"
     },
     "card": {
       "nationality": "Nacionalidad",
@@ -1415,8 +1417,7 @@
     "pending_to_evaluate": "Pendientes de evaluar",
     "evaluate": "Evaluar",
     "title": "Calendario",
-    "error_accepting_visit": "Error al aceptar la visita.",
-    "pending": "Pendiente"
+    "error_accepting_visit": "Error al aceptar la visita."
   },
   "operation":{
     "steps": {
@@ -2233,6 +2234,7 @@
     }
   },
   "document": {
+    "clipboard_copied": "Texto copiado al portapapeles",
     "document_name":"Documento",
     "document_plural":"Documentos",
     "searchPlaceholder": "Buscar documento",
@@ -2523,6 +2525,9 @@
     },
     "emailFilter": {
       "title": "Filtrar",
+      "mailbox": "Carpeta",
+      "inbox": "Bandeja de entrada",
+      "sent": "Enviados",
       "startDate": "Desde",
       "endDate": "Hasta",
       "destinataryEmail": "Email del destinatario",
