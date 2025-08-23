@@ -1391,6 +1391,8 @@
     "pending_to_evaluate": "Pending to Evaluate",
     "evaluate": "Evaluate",
     "title": "Calendar",
+    "pending": "Pending",
+    "not_evaluated": "Not evaluated",
     "error_accepting_visit": "Error accepting the visit."
   },
   "operation":{

@@ -1417,6 +1417,8 @@
     "pending_to_evaluate": "Pendientes de evaluar",
     "evaluate": "Evaluar",
     "title": "Calendario",
+    "pending": "Pendiente",
+    "not_evaluated": "No evaluado",
     "error_accepting_visit": "Error al aceptar la visita."
   },
   "operation":{
